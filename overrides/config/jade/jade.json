@@ -24,7 +24,7 @@
     "overlaySquare": false,
     "flipMainHand": false,
     "autoScaleThreshold": 0.5,
-    "alpha": 0.7,
+    "alpha": 0.0,
     "themes": {
       "jade:waila": {
         "id": "jade:waila",
